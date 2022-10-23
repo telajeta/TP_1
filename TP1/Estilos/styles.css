@@ -130,6 +130,17 @@ img {
         margin-left: 0;
     }
 }
+
+/*sticky-----*/
+div.sticky {
+    position: sticky;
+    bottom: 0px;             
+    padding:10px;
+    background-color: lightgrey;
+    border: 3px dotted rgb(136, 60, 83);
+    text-align: center;
+    font-size: x-large;
+    }
 /*---------*/
 .marginimg {
     margin-top: 16px;
